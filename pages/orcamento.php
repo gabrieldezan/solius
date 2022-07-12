@@ -2,14 +2,19 @@
 <html lang="zxx">
 
     <head>
-        <meta property="og:url" content="<?php echo "https://" . $_SERVER['HTTP_HOST'] . URL ?>"/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="<?php echo $voResultadoConfiguracoes->titulo ?>"/>
-        <meta property="og:description" content="<?php echo $voResultadoConfiguracoes->descricao ?>"/>
-        <meta property="og:image" content="<?php echo "https://" . $_SERVER['HTTP_HOST'] . URL ?>"/>
-        <meta property="og:site_name" content="<?php echo $voResultadoConfiguracoes->nome_empresa ?>"/>
-        <meta property="fb:admins" content="<?php echo $voResultadoConfiguracoes->facebook ?>"/>
-        <meta name="description" content="<?php echo $voResultadoConfiguracoes->descricao ?>">
+        <meta property="og:url" content="https://solius.com.br" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Solius Energia Solar - Especialista em Usina Solar Fotovoltaica" />
+        <meta property="og:description" content="Energia Solar com equipamentos fotovoltaicos de qualidade e garantia de 10 anos é com a Solius. Converse com um especialista" />
+        <meta property="og:image" content="https://solius.com.br" />
+        <meta property="og:site_name" content="Solius Energia Solar Fotovoltaica" />
+        <meta property="fb:admins" content="solius.solar" />
+        <meta name="description" content="Energia Solar com equipamentos fotovoltaicos de qualidade e garantia de 10 anos é com a Solius. Converse com um especialista" />
+        <meta name="abstract" content="Usina de Energia Solar Fotovoltaica é com a Solius" />
+        <meta name="keywords" content="sistema fotovoltaico, energia solar, usina solar, placa solar, painel solar, empresa energia solar, placa fotovoltaica, kit solar residencial, energia solar foz do iguaçu, energia solar medianeira, energia solar dourados" />
+        <meta name="robot" content="all" />
+        <meta name="rating" content="general" />
+        <meta name="distribution" content="global" />
         <title><?php echo $voResultadoConfiguracoes->titulo ?> - Orçamento</title>
         <style type="text/css">.preloader{background:#118442;height:100%;left:0;position:fixed;top:0;width:100%;z-index:9999999}.preloader.thm-gradient-two{background:#4c1da2;background:-webkit-gradient(left top,right top,color-stop(0,#4c1da2),color-stop(100%,#bc5f9d));background:-webkit-gradient(linear,left top,right top,from(#4c1da2),to(#bc5f9d));background:linear-gradient(to right,#4c1da2 0,#bc5f9d 100%)}.preloader.yellow-bg{background:#ffb907;background:-webkit-gradient(left top,right top,color-stop(0,#ffb907),color-stop(100%,#ffd84f));background:-webkit-gradient(linear,left top,right top,from(#ffb907),to(#ffd84f));background:linear-gradient(to right,#ffb907 0,#ffd84f 100%)}.preloader .spinner{width:60px;height:60px;position:absolute;top:50%;left:50%;margin-top:-30px;margin-left:-30px;background-color:#fff;border-radius:100%;-webkit-animation:sk-scaleout 1s infinite ease-in-out;animation:sk-scaleout 1s infinite ease-in-out}</style>
 
